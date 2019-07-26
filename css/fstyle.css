@@ -6,6 +6,11 @@ body{
 	font-family: "forte";
 	src: url("forte.ttf");
 }
+@font-face{
+	font-family: "impact";
+	src: url("shorthaulssk.ttf");
+}
+
 .no0{
 	padding: 0;
 	margin: 0;
