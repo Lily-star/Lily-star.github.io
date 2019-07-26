@@ -1,0 +1,133 @@
+body{
+	background-color: rgb(255,240,190);
+}
+
+
+.first{
+	font-size: 35px;
+	font-weight: bolder;
+	color:tomato;
+}
+
+p {
+	color: tomato;
+	font-family: verdana;
+	font-size: 20px;
+	font-style: normal;
+}
+
+.a {
+	display: inline-block;
+	text-align: center;
+	overflow: auto;
+	left: 500px;
+}
+.a img {
+	float: left;
+}
+.a p{
+	float: right;
+	top: 100px;
+
+}
+
+
+.front p{
+	color:tomato;
+
+}
+
+}
+.b img{
+	display: inline-block;
+	border-style: 2px solid orange;
+}
+.clear {
+	clear: both;
+}
+.warn{
+	font-size: 30px;
+	color: red;
+	background-color: white;
+	padding: 15px ;
+	border: 2px solid red;
+}
+
+body{
+	color :white;
+}
+.above{
+	position: fixed ;
+	top:0;
+	left:0;
+	right:0;
+	background:tomato;
+	text-align: left;
+	font-size: 55px;
+	font-family: forte;
+	padding-left: 20px;
+	height: 70px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	z-index: 1;
+}
+.below{
+	position: fixed ;
+	top: 90px;
+	left:0;
+	right:0;
+	height: 30px;
+	background:orange;
+	padding-left: 10px;
+	font-size: 20px;
+	z-index: 1;
+}
+.italic{
+	font-style: italic;
+}
+.button{
+	background-color: #8B1C62;
+	text-align:left;
+	padding-left: 10px;
+	padding-top: 20px;
+	position: fixed;
+	left:20px;
+	top: 140px;
+	color:orange;
+	width:100px;
+	height: 80px;
+	font-size: 20px;
+	font-family: impact;
+}
+.text{
+	text-align: left;
+	padding-left: 13%;
+	padding-right: 11%;
+	position: absolute;
+	left:0;
+	right:0;
+	top: 120px;
+	color:#CD2626;
+	font-size: 25px;
+	font-family: gadugi;
+	z-index: -1;
+}
+
+.subtitle{
+	font-size: 45px;
+	font-family: forte;
+	color:#8B1C62;
+	padding-left: 15px;
+	background-color: rgb(255,252,210);
+}
+
+.devide{
+	z-index: 0
+	color:tomato;
+	font-size: 60px
+}
+.text2{
+	color:#CD2626;
+	font-size: 25px;
+	font-family: gadugi;
+}
