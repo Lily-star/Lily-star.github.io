@@ -3,7 +3,7 @@ body{
 }
 @font-face{
 	font-family: "forte";
-	src: url("forte_.ttf");
+	src: url('forte_.ttf');
 }
 
 .first{
