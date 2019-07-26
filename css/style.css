@@ -5,6 +5,10 @@ body{
 	font-family: "forte";
 	src: url("forte.ttf");
 }
+@font-face{
+	font-family: "impact";
+	src: url("shorthaulssk.ttf");
+}
 
 .first{
 	font-size: 35px;
@@ -14,7 +18,7 @@ body{
 
 p {
 	color: tomato;
-	font-family: verdana;
+	font-family: Arial;
 	font-size: 20px;
 	font-style: normal;
 }
@@ -112,7 +116,7 @@ body{
 	top: 120px;
 	color:#CD2626;
 	font-size: 25px;
-	font-family: gadugi;
+	font-family: Arial;
 	z-index: -1;
 }
 
@@ -132,5 +136,5 @@ body{
 .text2{
 	color:#CD2626;
 	font-size: 25px;
-	font-family: gadugi;
+	font-family: Arial;
 }
