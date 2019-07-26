@@ -1,7 +1,10 @@
 body{
-	background-color: rgb(255,240,190);
+	background-color: rgb(255,230,190);
 }
-
+@font-face{
+	font-family: "forte";
+	src: url(forte_.ttf);
+}
 
 .first{
 	font-size: 35px;
